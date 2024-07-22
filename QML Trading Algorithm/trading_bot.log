@@ -1,0 +1,15 @@
+2024-06-07 09:42:37,356:ERROR:Error: x_vec and y_vec have incompatible dimensions.
+x_vec has 6 dimensions, but y_vec has 10.
+2024-06-07 09:42:37,357:INFO:Trading bot stopped after running for 1 hour.
+2024-06-07 10:01:01,809:INFO:Cleaning data and calculating features...
+2024-06-07 10:01:01,817:INFO:Feature engineering complete.
+2024-06-07 10:01:01,818:ERROR:Error: 'QSVC' object has no attribute 'feature_map'
+2024-06-07 10:01:01,818:INFO:Trading bot stopped after running for 1 hour.
+2024-06-07 10:01:07,626:INFO:Cleaning data and calculating features...
+2024-06-07 10:01:07,634:INFO:Feature engineering complete.
+2024-06-07 10:01:07,635:ERROR:Error: 'QSVC' object has no attribute 'feature_map'
+2024-06-07 10:01:07,635:INFO:Trading bot stopped after running for 1 hour.
+2024-06-07 11:16:47,708:INFO:Cleaning data and calculating features...
+2024-06-07 11:16:47,718:INFO:Feature engineering complete.
+2024-06-07 11:19:33,505:INFO:Trading bot stopped by user.
+2024-06-07 11:19:33,506:INFO:Trading bot stopped after running for 1 hour.

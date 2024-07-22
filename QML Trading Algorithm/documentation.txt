@@ -1,0 +1,16 @@
+Quantum Machine Learning Algorithm
+
+Main Installs:
+pip install numpy
+pip install pandas
+pip install os
+pip install joblib
+pip install scikit-learn
+pip install keras
+pip install tensorflow
+pip install qiskit
+pip install qiskit_machine_learning
+pip install qiskit_aer
+pip install qiskit_algorithms
+pip install pytz
+pip install requests
